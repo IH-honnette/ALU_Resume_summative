@@ -1,6 +1,6 @@
 # Marie Honette Ihozo - Digital Resume
 
-Welcome to my digital resume!  
+Welcome to my [digital resume](https://ih-honnette.github.io/ALU_Resume_summative/)  
 This project showcases my professional experience, skills, and featured projects in a modern, interactive web format.
 
 ## 🚀 Features
